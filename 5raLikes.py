@@ -10,8 +10,8 @@ import threading
 
 warnings.filterwarnings("ignore", category=requests.packages.urllib3.exceptions.InsecureRequestWarning)
 
-TELEGRAM_TOKEN = '7547526933:AAHn5sTRbesNnb_e2EcKCzDc8LSqGbH8r_M'
-TELEGRAM_CHAT_ID = '7327921791'
+TELEGRAM_TOKEN = '7333758497:AAFolfOO-7bpJgdirCim0h9RNOOwjN43t2g'
+TELEGRAM_CHAT_ID = '5443761489'
 
 def send_telegram_notification(text):
     try:
@@ -48,26 +48,19 @@ LOGIN_PAGES = [
 accounts = [
 
 
-"mhamdi6788|saber1234",
-"amen_allah_her__1919|amen1234",
 
-"youssef_ben_ali_111|youssef123456789",
+"youssef_ben_ali_111|youssef123456789",#1
 
 
 
-
-#"ouss.amarhimi|oussama123",
-"bouhanioussema|oussema123",
-"20781.579|youssef123456",
-"ba.ssem9636|bassem123",
-"cherni.houssem.90|cherni123",
+"bouhanioussema|oussema123",#2
+"20781.579|youssef123456",#3
+"ba.ssem9636|bassem123",#4
+#"cherni.houssem.90|cherni123",#5
 
 
-"kr_firasofficiel_|firas123",
-"rchidbenahmed|rchid1234",
-"firas4305|firas123",
-"omarzr7070269|omaromar",
-
+"kr_firasofficiel_|firas123",#6
+"rchidbenahmed|rchid1234",#7
 
 
 ]
