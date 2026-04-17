@@ -10,8 +10,8 @@ import threading
 
 warnings.filterwarnings("ignore", category=requests.packages.urllib3.exceptions.InsecureRequestWarning)
 
-TELEGRAM_TOKEN = '7547526933:AAHn5sTRbesNnb_e2EcKCzDc8LSqGbH8r_M'
-TELEGRAM_CHAT_ID = '7327921791'
+TELEGRAM_TOKEN = '7333758497:AAFolfOO-7bpJgdirCim0h9RNOOwjN43t2g'
+TELEGRAM_CHAT_ID = '5443761489'
 
 def send_telegram_notification(text):
     try:
@@ -51,8 +51,8 @@ accounts = [
     "azizhanzouli7|aziz123456789",
     "sii___fon|saif12345",
     "omri_4165|ahmed123456",
-    "ademmmmm__07|ademadem",
-    "ayoub.ilahi|ayoub123456789",
+  #  "ademmmmm__07|ademadem",
+  #  "ayoub.ilahi|ayoub123456789",
     "aziz_ferchichi19|ferchichi123",
     "ademhassine_|ademhassine123",
     "belgarouiyoussef|youssef123",
